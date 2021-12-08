@@ -1,0 +1,15 @@
+de, 1, ltr
+Ja
+Nein
+Ok
+Abbrechen
+Weiter
+
+
+
+// 10
+
+
+
+
+
